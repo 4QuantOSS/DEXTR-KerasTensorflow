@@ -1,6 +1,5 @@
-# Deep Extreme Cut (DEXTR)
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4QuantOSS/DEXTR-KerasTensorflow/master)
+# Deep Extreme Cut (DEXTR) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4QuantOSS/DEXTR-KerasTensorflow/master)
+ [![Demo](https://img.shields.io/badge/launch-interactive_demo-yellow.svg)](https://mybinder.org/v2/gh/4QuantOSS/DEXTR-KerasTensorflow/master?urlpath=%2Fapps%2Fnotebooks%2FDemo.ipynb)
 
 Visit our [project page](http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr) for accessing the paper, and the pre-computed results.
 
