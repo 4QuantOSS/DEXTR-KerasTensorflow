@@ -1,1 +1,3 @@
-cd models; . download_dextr_model.sh; cd ..
+cd models
+. download_dextr_model.sh
+cd ..
