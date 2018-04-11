@@ -1,4 +1,7 @@
 # Deep Extreme Cut (DEXTR)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4QuantOSS/DEXTR-KerasTensorflow/master)
+
 Visit our [project page](http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr) for accessing the paper, and the pre-computed results.
 
 ![DEXTR](doc/dextr.png)
@@ -17,7 +20,7 @@ The code was tested with [Miniconda](https://conda.io/miniconda.html) and Python
     git clone https://github.com/scaelles/DEXTR-KerasTensorflow
     cd DEXTR-KerasTensorflow
     ```
- 
+
 1. Install dependencies:
     ```Shell
     conda install matplotlib opencv pillow scikit-learn scikit-image h5py
@@ -30,8 +33,8 @@ The code was tested with [Miniconda](https://conda.io/miniconda.html) and Python
     ```Shell
     pip install tensorflow-gpu keras
     ```
-    
-  
+
+
 2. Download the model by running the script inside ```models/```:
     ```Shell
     cd models/
